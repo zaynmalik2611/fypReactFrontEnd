@@ -1,0 +1,48 @@
+.Post {
+  border-radius: 10px;
+  margin: 0px 320px 30px;
+  padding-left: 10px;
+  background-color: white;
+}
+
+.PostInfo {
+  display: flex;
+  padding-top: 10px;
+}
+
+.CommunityName {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.OP {
+  font-size: 10px;
+  padding-left: 5px;
+}
+
+.TimePosted {
+  font-size: 10px;
+  padding-left: 5px;
+}
+
+.PostHeader {
+}
+
+.PostContent {
+  padding-right: 20px;
+}
+
+.DivBtns {
+  padding-left: 5px;
+}
+
+.PostBtns {
+  margin-left: 10px;
+}
+
+.BtnStyling {
+  background-color: #de5246;
+  color: white;
+  border: none;
+  padding: 5px 5px;
+}

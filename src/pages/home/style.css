@@ -1,0 +1,12 @@
+.home {
+}
+
+.cardsDiv {
+  display: flex;
+  margin-top: 40px;
+}
+
+.titleNav {
+  display: grid;
+  grid-template-columns: 65% 35%;
+}

@@ -1,0 +1,14 @@
+.communityNav {
+  display: flex;
+  flex-direction: column;
+  background-color: #e7686e;
+  color: white;
+  padding: 0px 20px 0px;
+  width: fit-content;
+}
+.communityNav > Link {
+  border-bottom: 1px solid white;
+}
+.communities {
+  margin-left: 25px;
+}
